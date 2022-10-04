@@ -1,6 +1,6 @@
 name: wuchuheng_iconfont
 description: 自动把iconfont.css转换出lib/common/iconfont.dart文件.
-version: 0.1.1
+version: 1.0.0
 maintainer: wuchuheng
 homepage: https://github.com/wuchuheng/iconfont_dart
 
